@@ -2,7 +2,7 @@
 
 // ACTION ITEM: replace mapbox access token below with your own mapbox access token. Refer to blank for information on accessing your token.
 L.mapbox.accessToken =
-	'pk.eyJ1IjoidnVsaWJyYXJ5Z2lzIiwiYSI6ImFaN2JkSlUifQ.Dl2sTO1mGKK7MCd1ViGPnQ';
+	'pk.eyJ1IjoiYW5nZWxhc3V0dG9uIiwiYSI6ImNpa2RlaWtrNjAwMWx0b2x5OWkzeXN2MGcifQ.SZPLWmnlt0oLTNkl9rXUiA';
 
 // ACTION ITEM: Insert the Mapbox key for your landing page map, refer blank for information on locating the map key. Also change the set view for your region of the world
 var map = L.mapbox.map('map', "vulibrarygis.of23e6p0").setView([52.51, 13.38],
